@@ -12,9 +12,16 @@ A real-time chat application built with Flutter that allows users to connect and
 - 🎨 **Modern UI & Smooth Experience**
 
 ## 📸 Screenshots
-| Login Screen | Chat Screen |
-|-------------|------------|
-| ![Login](https://github.com/Adarsh1o1/whosThere/blob/9d5675c96fcff07be9d3f5fe42956232c370a7ee/assets/icons/WhatsApp%20Image%202025-02-04%20at%2022.19.48_cce039d7.jpg) | ![Chat](https://github.com/Adarsh1o1/whosThere/blob/9d5675c96fcff07be9d3f5fe42956232c370a7ee/assets/icons/WhatsApp%20Image%202024-12-01%20at%2021.23.50_a5139d2c.jpg) |
+<table>
+  <tr>
+    <th>Login</th>
+    <th>Chat Screen</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Adarsh1o1/whosThere/blob/9d5675c96fcff07be9d3f5fe42956232c370a7ee/assets/icons/WhatsApp%20Image%202025-02-04%20at%2022.19.48_cce039d7.jpg" width="250"></td>
+    <td><img src="https://github.com/Adarsh1o1/whosThere/blob/9d5675c96fcff07be9d3f5fe42956232c370a7ee/assets/icons/WhatsApp%20Image%202024-12-01%20at%2021.23.50_a5139d2c.jpg" width="250"></td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 - **Flutter** (Frontend)
